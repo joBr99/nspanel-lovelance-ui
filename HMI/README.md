@@ -109,6 +109,13 @@ change the page type:
 `pageType~popupNotify`
 
 `pageType~screensaver`
+### Icon
+Go to https://docs.nspanel.pky.eu/icon-cheatsheet.html
+Click on the little (U)-Symbol right beside the icon and paste the code in the field for icon.
+![image](https://github.com/joke24/nspanel-lovelace-ui/assets/19669309/04a6cdff-54b3-4eea-84b2-1cb89dc4983d)
+
+### Icon Color 
+For icons RGB565 color is used. Use color picker from e.g. https://rgbcolorpicker.com/565 and paste the value in the field for icon color.
 
 ### screensaver page
 
