@@ -44,6 +44,8 @@ Using a 6th entity will automatically activate the alternative layout.
           type: 0
         - entity: weather.demo_weather_north
           type: 1
+        - entity: weather.demo_weather_north
+          type: 2
         - entity: sensor.energy_usage
         - entity: delete
         - entity: sensor.indoor_temp
